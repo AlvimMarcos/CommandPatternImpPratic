@@ -1,0 +1,2 @@
+# CommandPatternImpPratic
+ singleton pattern
